@@ -1,0 +1,14 @@
+{
+    "app-usage-policy":"นโยบายการใช้งานแอป",
+    "no-app-usage-policy":"ไม่มีนโยบายการใช้งานแอป",
+    "I-agree-with": "ฉันเห็นด้วยกับ",
+    "terms-and-privacy-policy":"เงื่อนไขและนโยบายความเป็นส่วนตัว",
+    "next": "ต่อไป",
+    "login": "เข้าสู่ระบบ",
+    "phone-number":"หมายเลขโทรศัพท์",
+    "password":"รหัสผ่าน",
+    "please-enter-password":"กรุณากรอกรหัสผ่าน",
+    "please-enter-phone-number":"กรุณากรอกหมายเลขโทรศัพท์",
+    "forgot-password":"ลืมรหัสผ่าน",
+    "profile-information":"ข้อมูลโปรไฟล์"
+}

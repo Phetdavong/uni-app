@@ -1,0 +1,14 @@
+{
+    "app-usage-policy": "App usage policy",
+    "no-app-usage-policy": "No app usage policy",
+    "I-agree-with": "I agree with",
+    "terms-and-privacy-policy": "Terms and privacy policy",
+    "next": "Next",
+    "login": "Login",
+    "phone-number":"Phone number",
+    "password":"Password",
+    "please-enter-password":"Please enter password",
+    "please-enter-phone-number":"Please enter phone number",
+    "forgot-password":"Forgot password",
+    "profile-information":"Profile information"
+}
